@@ -112,6 +112,7 @@ pip install opencv-python matplotlib
 |:------|---------------:|--------------:|
 | `1.jpg` | 15,412 | 500 |
 | `2.jpg` | 23,348 | 500 |
+
 The difference in FAST keypoint counts indicates that the number of detected corners can vary depending on the visual characteristics of an image, such as edges, textures, and structural details.
 
 The ORB results are approximately 500 keypoints in this experiment because the default OpenCV ORB configuration uses nfeatures=500, which limits the number of features retained.
