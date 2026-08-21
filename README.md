@@ -104,6 +104,7 @@ This allows the number of keypoints detected by FAST and ORB to be compared for 
 # Installation
 ```bash
 pip install opencv-python matplotlib
+```
 # Results
 <img width="990" height="912" alt="image" src="https://github.com/user-attachments/assets/b657dfd9-af49-401b-826d-057a88e4e827" />
 | Image | FAST Keypoints | ORB Keypoints |
